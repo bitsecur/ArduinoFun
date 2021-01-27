@@ -10,4 +10,4 @@ The rules are simple:
 
 Note: Chances to get this game right, is about 4.2%: (1/4) * (1/3) * (1/2)
 
-[![CrackTheCode - Breadboard](https://raw.githubusercontent.com/bitsecur/ArduinoFun/main/CrackTheCode/CrackTheCode_breadboard.png)]
+![CrackTheCode - Breadboard](CrackTheCode_breadboard.png)
