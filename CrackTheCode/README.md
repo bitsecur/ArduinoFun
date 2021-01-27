@@ -10,4 +10,11 @@ The rules are simple:
 
 Note: Chances to get this game right, is about 4.2%: (1/4) * (1/3) * (1/2)
 
+## Schematics
 ![CrackTheCode - Breadboard](CrackTheCode_breadboard.png)
+
+## Photo
+![CrackTheCode - Breadboard](CrackTheCode_photo.jpg)
+
+## Demo video
+[Download Here](CrackTheCode_demo.mp4?raw=true)
