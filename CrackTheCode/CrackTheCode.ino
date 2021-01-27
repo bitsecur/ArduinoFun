@@ -64,7 +64,7 @@ void set_code() {
   // Everyday I'm shufflin'...
   for (int i = 0; i < numColors; i++) {
     randomSeed(analogRead(A0));
-    int randNum = random(0, 4);
+    int randNum = random(0, numColors);
     int temp = code[randNum];
     code[randNum] = code[i];
     code[i] = temp;
@@ -142,7 +142,7 @@ void loop() {
         failed();        
       }      
     }
-    if (correctNum == 4 && !finished) {
+    if (correctNum == numColors && !finished) {
       victory();
       finished = true;
     }
